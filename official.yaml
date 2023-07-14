@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "zz", server: 104.168.169.149, port: 25252, type: vmess, uuid: 872f463f-db17-4bc1-a112-d9e29dc792fc, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /hbjdP5, headers: {Host: www.zzbar.net}}}
+  - {name: "zz", server: 104.168.169.149, port: 25253, type: vmess, uuid: 3d4d5e6d-8fd9-4e21-9625-9ff7067fbe6f, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /1CZIFc1qz, headers: {Host: www.zzbar.net}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
